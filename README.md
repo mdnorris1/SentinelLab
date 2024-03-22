@@ -14,11 +14,11 @@ Next, create hunt queries for any New Users in Entra and deleted Users also.
 <br />
 
 <br/>
-<img src="https://github.com/mdnorris1/SentinelLab/blob/main/hunt2.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="hunt 2.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 <br/>
-<img src="https://github.com/mdnorris1/SentinelLab/blob/main/hunt3.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="hunt 3.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 An existing UEBA rule can be customised for your context.
