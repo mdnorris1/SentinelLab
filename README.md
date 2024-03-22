@@ -10,14 +10,32 @@ Next, create hunt queries for any New Users in Entra and deleted Users also.
 
 
 <br/>
-<img src="[assets/stats .png](https://github.com/mdnorris1/SentinelLab/blob/main/hunt1.png)" height="80%" width="80%" alt="ifconfig command"/>
+<img src="https://github.com/mdnorris1/SentinelLab/blob/main/hunt1.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+
+<br/>
+<img src="https://github.com/mdnorris1/SentinelLab/blob/main/hunt2.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+
+<br/>
+<img src="https://github.com/mdnorris1/SentinelLab/blob/main/hunt3.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 An existing UEBA rule can be customised for your context.
 
 <br/> 
-<img src="assets/src ip.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="ueba turn on.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
+
+<br/> 
+<img src="https://github.com/mdnorris1/SentinelLab/blob/main/duplicate%20ueba.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+
+<br/> 
+<img src="edit ueba.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+
+
 
 Then a new query can be edited and then click run to execute it.
 
