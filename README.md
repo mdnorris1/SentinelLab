@@ -3,7 +3,7 @@
 First, deploy a watchlist.
 
 <br/>
-<img src="https://github.com/mdnorris1/SplunkLab/blob/main/assets/1%20top.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="https://github.com/mdnorris1/SentinelLab/blob/main/watchlist.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 Next, create hunt queries for New Users in Entra and deleted Users also.
