@@ -28,6 +28,10 @@ An existing UEBA rule can be customised for your context.
 <br />
 
 <br/> 
+<img src="apply entra data source.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+
+<br/> 
 <img src="https://github.com/mdnorris1/SentinelLab/blob/main/duplicate%20ueba.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
@@ -40,13 +44,17 @@ An existing UEBA rule can be customised for your context.
 Then a new query can be edited and then click run to execute it.
 
 <br/> 
-<img src="assets/dest ip.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="query1.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+
+<br/> 
+<img src="query.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 Finally, logs can be analysed.
 
 <br/>
-<img src="assets/visualisation.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="log analysis.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 
